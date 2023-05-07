@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "ec72afd6-f753-4ae7-ac15-39f83e5f37d7",
+      "name": "yash",
+      "email": "yash@gmail.com"
+    },
+    {
+      "id": "1029cfb2-cd10-48a2-b7fb-a35ac45b34ce",
+      "name": "harshit",
+      "email": "har123@gmail.com"
+    }
+  ]
+}
